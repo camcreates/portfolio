@@ -1,4 +1,4 @@
-.navbar {
+/*.navbar {
   background-color: transparent;
    background: transparent;
 }
@@ -44,7 +44,31 @@
 .jumbotron p {
   font-size: 20px;
   color: #fff;
-}
+}*/
+
+.bg {
+  height: 500px;
+  background: url('http://goo.gl/04j7Nn') top center;
+  background-repeat:no-repeat;
+  }
+.navbar {
+    background-color: transparent;
+    background: transparent;
+    border:0;
+
+  }
+  .navbar ul{
+    list-style:none;
+  }
+
+  .navbar li{
+    display:inline;
+  }
+  
+  .navbar ul li a:active, 
+  .navbar ul li a:hover,
+  .navbar ul li a:visited,
+   .navbar ul li a:link { color: #000 ;}
 
 .learn-more {
   background-color: #f7f7f7;
