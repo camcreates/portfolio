@@ -175,7 +175,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: 'Philosopher',"Helvetica Neue",Helvetica,Arial,cursive;
     color: #fed136;
 }
 
@@ -278,7 +278,7 @@ header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
 }
-
+ 
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
