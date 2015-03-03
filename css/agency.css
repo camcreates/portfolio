@@ -266,7 +266,7 @@ header {
     color: #fff;
     background-attachment: scroll;
     background-color: #222;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/header_2.png);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -865,4 +865,9 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #fed136;
+}
+
+.numbered-list {
+    list-style-type: none;
+    text-align:left;
 }
