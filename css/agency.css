@@ -777,6 +777,14 @@ ul.social-buttons li a:active {
     background-color: #f24a00;
 }
 
+.gaprofile {
+    background: url(../img/logos/ga_inactive.png);
+}
+.gaprofile:hover {
+    background: url(../img/logos/ga_active.png);
+
+}
+
 .btn:focus,
 .btn:active,
 .btn.active,
