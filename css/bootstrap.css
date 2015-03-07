@@ -6562,5 +6562,14 @@ button.close {
   .hidden-print {
     display: none !important;
   }
+}.modal-backdrop:before {
+  background-color: #000;
+  content: '';
+  position: fixed;
+  top:0;
+  left: 0;
+  right: 0;
+  z-index: -1;
+  bottom: 0;
 }
 /*# sourceMappingURL=bootstrap.css.map */
