@@ -288,7 +288,7 @@ header .intro-text {
 }
  
 header .intro-text .intro-lead-in {
-    color: #fe9936;
+    color: #    ;
     text-shadow: 1px 1px #000;
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -894,9 +894,11 @@ body {
     list-style-type: none;
     text-align:left;
 }
+
 .bullet-list {
     text-align:left;
 }
+
 .bullet-head {
     /*text-align:left;*/
     text-transform: uppercase;
