@@ -907,7 +907,7 @@ body {
 }
 
 .even{
-    background-color: #e5e5e5;
+    background-color: #f2f2f2;
 }
 
 .odd{
@@ -915,5 +915,6 @@ body {
 }
 
 .results{
-    background-color: #b8dedd;
+    background-color: #def2f1;
+    margin-bottom: 10px;
 }
