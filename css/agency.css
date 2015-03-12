@@ -906,3 +906,14 @@ body {
     font-weight: 700;
 }
 
+.even{
+    background-color: #e5e5e5;
+}
+
+.odd{
+    background-color: #ffffff;
+}
+
+.results{
+    background-color: #b8dedd;
+}
